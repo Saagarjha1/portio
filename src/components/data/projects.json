@@ -1,0 +1,27 @@
+[
+  {
+    "key": 1,
+    "title": "Solarwind Prediction ",
+    "imageSrc": "assets/project/Designer.jpeg",
+    "description": "Develop a solar wind forecasting system leveraging machine learning to predict solar wind parameters, enhancing space weather prediction capabilities for satellite communications and space mission planning.",
+    "demo": "https://www.example.com",
+    "source": "https://www./github.com"
+  },
+  {
+    "key": 2,
+    "title": "House price Prediction",
+    "imageSrc": "assets/project/Designer (1).jpeg",
+    "description": "Develop a machine learning model to accurately predict housing prices in Boston using historical property data, enabling informed decision-making for homebuyers and real estate investors.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Pincode Serviceability Verification Web Application",
+    "imageSrc": "assets/project/Designer (2).jpeg",
+    "description": "The Pincode Serviceability Verification Web Application optimizes memory usage and accelerates data processing speed using sparse matrix techniques, providing a seamless solution for businesses to verify serviceability across diverse locations.",
+    "demo": "https://main--preeminent-heliotrope-815bd1.netlify.app/",
+    "source": "https://github.com/Saagarjha1/ONDC-Hackathon/tree/main"
+  }
+  
+]

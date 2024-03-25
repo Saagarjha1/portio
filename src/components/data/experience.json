@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "role": "(Web Development-Intern)",
+    "organisation": "Zetpeak",
+    "startDate": "Aug, 2023-",
+    "endDate": "Nov,2023",
+    "location": "Mumbai,India",
+    "experiences": [
+      "Worked on E commerce website"
+    ],
+    "imageSrc": "company/Zetpeak.jpeg"
+  },
+
+  {
+    "id": 2,
+    "role": "Software Development-Intern",
+    "organisation": "(Alhansat Solution)",
+    "startDate": "Sept, 2023-",
+    "endDate": "Oct,2023",
+    "location": "Mumbai,India",
+    "experiences": [
+      "Worked on Text to Speech model"
+    ],
+    "imageSrc": "company/alhansat.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Web Development - Intern",
+    "organisation": "Prodigy infotech",
+    "startDate": "Sept, 2023",
+  
+    "location": "Remote,India",
+    "experiences": [
+      "Worked on stopwatch,Tic-Tac-toe,Landing page,Weather App"
+    ],
+    "imageSrc": "company/prodigy.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Web Development - Intern",
+    "organisation": "Bharat Intern",
+    "startDate": "Aug, 2023-",
+  
+    "location": "Remote,India",
+    "experiences": [
+      "Worked on Temperature Convert,Netflix Landing page"
+    ],
+    "imageSrc": "company/BharatIntern.jpeg"
+  }
+]
